@@ -1,3 +1,27 @@
-.starter {
-  font-size: 18px;
+@import './utils/vars.scss';
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-Regular.otf') format('opentype');
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'HKGrotesk', sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  &--regular {
+    width: 1392px;
+  }
+
+  &--full {
+    width: 100%;
+  }
+
+  &--header {
+    width: 966px;
+  }
 }
