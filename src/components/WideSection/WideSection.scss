@@ -1,0 +1,30 @@
+@import '../../utils/vars.scss';
+
+.wide {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 374px;
+
+  background-image: url('/images/wide.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  &__text {
+    width: 828px;
+    background-color: $color_wide_background;
+    border-left: 14px solid $color_purple;
+    padding: 32px 33px 32px 30px;
+
+    &--heading {
+      color: $color_purple;
+      margin-bottom: 10px;
+      font-weight: 700;
+    }
+
+    &--paragraph {
+      color: white;
+      line-height: 24px;
+    }
+  }
+}

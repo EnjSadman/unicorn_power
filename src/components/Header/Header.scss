@@ -1,0 +1,84 @@
+@import '../../utils/vars.scss';
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 0;
+  height: 92px;
+  margin-bottom: 48px;
+
+  &__logo {
+    font-size: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: $color_main;
+  }
+
+  &__button {
+    background-color: $color_purple;
+    color: white;
+    width: 152px;
+    height: 40px;
+    border: unset;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 15px;
+
+    &:hover {
+      cursor: pointer;
+      background-color: $color_background_hover;
+    }
+  }
+
+  &__buttons {
+    display: flex;
+    align-items: center;
+  }
+
+  &__dropdown {
+    border: none;
+    background-color: white;
+    margin-right: 15px;
+  }
+}
+
+.links {
+  z-index: -1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.link {
+  top: -20px;
+  position: absolute;
+  display: block;
+}
+
+.selected.links{
+  position: absolute;
+}
+
+.selected > .link{
+  position: relative;
+  top: 0;
+  left: 17px;
+}
+
+.path {
+  margin-bottom: 32px;
+
+  &__paragraph {
+    margin-right: 8px;
+    display: inline;
+
+    &--selected {
+      color: $color_secondary;
+      display: inline;
+    }
+  }
+}
