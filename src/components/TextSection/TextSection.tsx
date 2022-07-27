@@ -16,8 +16,6 @@ export const TextSection = () => {
     fetcher();
   }, []);
 
-  console.log(about);
-
   return (
     <div className="container container--regular textSection">
       {about && (

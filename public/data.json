@@ -18,33 +18,38 @@
     "products": [
         {
             "id": 1,
-            "name": "Adora Regal Limited",
-            "incorporated": "Incorporated April 2022",
-            "price": 373.5
+            "img" : "/imgs/Digital.png",
+            "name": "Digital",
+            "services": ["Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation", "HMRC UTR Number"],
+            "price": 12.48
         },
         {
             "id": 2,
-            "name": "Adora Regal Limited",
-            "incorporated": "Incorporated April 2022",
-            "price": 373.5
+            "img" : "/imgs/DigitalPrint.png",
+            "name": "Digital & Print",
+            "services": ["+ Printed Certificate of Incorporation", "+ Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation", "HMRC UTR Number"],
+            "price": 16.98
         },
         {
             "id": 3,
-            "name": "Adora Regal Limited",
-            "incorporated": "Incorporated April 2022",
-            "price": 373.5
+            "img" : "/imgs/Privacy.png",
+            "name": "Privacy",
+            "services": ["+ Registered Address, London EC1", "+ Directors Address, London EC1", "+ Free .co.uk Domain", "Printed Certificate of Incorporation", "Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register"],
+            "price": 27.48
         },
         {
             "id": 4,
-            "name": "Adora Regal Limited",
-            "incorporated": "Incorporated April 2022",
-            "price": 373.5
+            "img" : "/imgs/FullyInclusive.png",
+            "name": "Fully Inclusive",
+            "services": ["Confirmation Statement ", "+ Trading Address, London EC1", "+ VAT Registration", "Registered Address, London EC1", "Directors Address, London EC1", "Free .co.uk Domain", "Printed Certificate of Incorporation", "Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation"],
+            "price": 54.48
         },
         {
             "id": 5,
-            "name": "Adora Regal Limited",
-            "incorporated": "Incorporated April 2022",
-            "price": 373.5
+            "img" : "/imgs/Digital.png",
+            "name": "Digital",
+            "services": ["+ Confirmation Statement ", "+ Trading Address, London EC1", "+ VAT Registration", "Registered Address, London EC1", "Directors Address, London EC1", "Free .co.uk Domain", "Printed Certificate of Incorporation", "Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation", "HMRC UTR NumberFree", "Accountancy Consulation", "HMRC UTR Number"],
+            "price": 12.48
         }
     ]
 }

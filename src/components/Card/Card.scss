@@ -1,0 +1,77 @@
+@import '../../utils/vars.scss';
+
+.card {
+  width: 272px;
+  padding: 20px;
+  background-color: $color_card_background;
+  margin-bottom: auto;
+
+  &__image {
+    margin-bottom: 16px;
+  }
+
+  &__price {
+    color: $color_purple;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 16px;
+  }
+
+  &__name {
+    margin-bottom: 8px;
+    font-weight: 700;
+    color: $color_purple;
+    font-size: 24px;
+  }
+
+  &__paragraph {
+    margin-bottom: 32px
+  }
+
+  &__list {
+    padding-inline-start: 0;
+    margin-bottom: 32px;
+    list-style: none;
+  }
+
+  &__cashback {
+    margin-bottom: 32px;
+  }
+
+  &__button {
+    color: white;
+    background-color: $color_purple;
+    width: 100%;
+    border: unset;
+    padding: 8px 0;
+    text-transform: uppercase;
+    font-weight: 700;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  &:hover {
+    color: white;
+    background-color: $color_background_hover;
+  }
+}
+
+.preferencesList {
+  &__item {
+    line-height: 24px;
+  }
+}
+
+.cashback {
+  &__price {
+    color: $color_purple;
+    font-size: 40px;
+    font-weight: 700;
+  }
+
+  &__text {
+    font-weight: 700;
+  }
+}

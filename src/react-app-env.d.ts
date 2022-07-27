@@ -13,3 +13,11 @@ export interface List {
   title: string,
   elements: string[],
 }
+
+export interface CardType {
+  id: number,
+  img: string,
+  name: string,
+  services: string[],
+  price: number,
+}
