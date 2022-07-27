@@ -1,0 +1,55 @@
+{
+    "hero": {
+        "title": "UK READY-MADE COMPANIES",
+        "description": "Turner Little offers a range of UK and Offshore Shelf Companies ready to go, as and when you need them. Historically, ‘shelf companies’ were created so that if speed was of the essence in a new business trading, or if an urgent transaction arose, a company could be taken off the shelf for the purpose. For instance, some jurisdictions require companies to have existed for a certain amount of time before they become eligible to bid on contracts."
+    },
+    "about": {
+        "text": "To help you move quickly, simply select the UK ready-made company which you desire from the table below and follow our step-by-step order process. And remember, you can change the name of the company, if required, from just £100 + VAT.",
+        "list": {
+            "title": "All our ready-made companies will be supplied with the following:",
+            "elements": [
+                "Six bound copies of the Memorandum and Articles of Association",
+                "Combined company register",
+                "Appointments of Directors and Company Secretary",
+                "First meetings held and fully updated registers"
+            ]
+        }
+    },
+    "products": [
+        {
+            "id": 1,
+            "img" : "/imgs/Digital.png",
+            "name": "Digital",
+            "services": ["Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation", "HMRC UTR Number"],
+            "price": 12.48
+        },
+        {
+            "id": 2,
+            "img" : "/imgs/DigitalPrint.png",
+            "name": "Digital & Print",
+            "services": ["+ Printed Certificate of Incorporation", "+ Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation", "HMRC UTR Number"],
+            "price": 16.98
+        },
+        {
+            "id": 3,
+            "img" : "/imgs/Privacy.png",
+            "name": "Privacy",
+            "services": ["+ Registered Address, London EC1", "+ Directors Address, London EC1", "+ Free .co.uk Domain", "Printed Certificate of Incorporation", "Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register"],
+            "price": 27.48
+        },
+        {
+            "id": 4,
+            "img" : "/imgs/FullyInclusive.png",
+            "name": "Fully Inclusive",
+            "services": ["Confirmation Statement ", "+ Trading Address, London EC1", "+ VAT Registration", "Registered Address, London EC1", "Directors Address, London EC1", "Free .co.uk Domain", "Printed Certificate of Incorporation", "Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation"],
+            "price": 54.48
+        },
+        {
+            "id": 5,
+            "img" : "/imgs/Digital.png",
+            "name": "Digital",
+            "services": ["+ Confirmation Statement ", "+ Trading Address, London EC1", "+ VAT Registration", "Registered Address, London EC1", "Directors Address, London EC1", "Free .co.uk Domain", "Printed Certificate of Incorporation", "Printed Share Certificates","Bank Accounts with upto £55", "Cash Back", "Limited Company Included", "Incorporation filing fee (worth £13)", "Fastest Online Filing Submission", "Digital Incorporation Certificate", "Digital Articles of Association", "Digitial Share Certificates", "Digital Company Register", "Free Accountancy Consulation", "HMRC UTR NumberFree", "Accountancy Consulation", "HMRC UTR Number"],
+            "price": 12.48
+        }
+    ]
+}
