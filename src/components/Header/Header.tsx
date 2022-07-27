@@ -11,7 +11,7 @@ export const Header : React.FC = () => {
     <header>
       <div className="container--regular header container">
         <div>
-          <a href="#" className="header__logo">
+          <a href="#" className="header__logo logo">
             Logo
           </a>
         </div>
