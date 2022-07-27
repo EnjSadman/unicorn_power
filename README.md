@@ -1,9 +1,20 @@
-# React TypeScript Starter Pack
+Test Project to Unicorn Power
 
-To use this template click `Use this template`
+Test project for unicorn power was made by me using React.
 
-### Available Scripts
+[DEMO LINK](https://enjsadman.github.io/unicorn_power/)
+Description
 
-`Deploy` - available to deploy your application to gh-pages
+This is page of website that sells some kind of companies in United Kingdom of Great Britain.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Local development
+Dependencies
+Node v12.16.3 and higher
+NPM v6.14.4 and higher
+
+---------------------------------
+
+Installing
+Fork and clone this repository
+Run ```npm install``` in your terminal
+Run ```npm start```
