@@ -15,6 +15,8 @@ module.exports = {
     'no-unused-vars': 0,
     'jsx-a11y/anchor-is-valid': 0,
     'no-console': 1,
+    'import/extensions': 0,
+    'import/no-unresolved': 0,
 
     // TypeScript
     '@typescript-eslint/no-unused-vars': ['error'],

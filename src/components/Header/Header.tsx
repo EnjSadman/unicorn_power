@@ -9,7 +9,7 @@ export const Header : React.FC = () => {
 
   return (
     <header>
-      <div className="container--header header container">
+      <div className="container--regular header container">
         <div>
           <a href="#" className="header__logo">
             Logo
@@ -66,7 +66,7 @@ export const Header : React.FC = () => {
           </button>
         </div>
       </div>
-      <div className="path container container--header">
+      <div className="path container container--regular">
         <p className="path__paragraph">Home /</p>
         <p className="path__paragraph">Company Formations /</p>
         <p className="path__paragraph--selected">Companies</p>
