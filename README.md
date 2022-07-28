@@ -17,11 +17,11 @@ This is page of website that sells some kind of companies in United Kingdom of G
 # Local development
 
 Dependencies:
-Node v12.16.3 and higher
-NPM v6.14.4 and higher
-Typescript 
-SASS
-Fontawesome
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
+* Typescript 
+* SASS
+* Fontawesome
 
 ---------------------------------
 
