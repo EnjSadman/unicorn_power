@@ -1,28 +1,31 @@
-Test Project to Unicorn Power
+# Test Project to Unicorn Power
 
 ----------------------------
 
-Test project for unicorn power was made by me using React.
+# Test project for unicorn power was made by me using React.
 
 [DEMO LINK](https://enjsadman.github.io/unicorn_power/)
 
 ---------------------------
 
-Description
+# Description
 
 This is page of website that sells some kind of companies in United Kingdom of Great Britain.
 
 --------------------------
 
-Local development
+# Local development
 
 Dependencies:
 Node v12.16.3 and higher
 NPM v6.14.4 and higher
+Typescript 
+SASS
+Fontawesome
 
 ---------------------------------
 
-Installing:
+# Installing:
 
 Fork and clone this repository
 
